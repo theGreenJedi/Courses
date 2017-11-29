@@ -1,5 +1,5 @@
 # Courses
-Variety of courses / classes with homework
+Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
 
 # Additional resources: (Algorithmic Toolbox - Coursera) 
 
