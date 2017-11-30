@@ -1,11 +1,11 @@
-### Courses
+# Courses
 Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
 
 ## Additional resources: 
 
-# (Algorithmic Toolbox - https://www.coursera.org/learn/algorithmic-toolbox) 
+### (Algorithmic Toolbox - https://www.coursera.org/learn/algorithmic-toolbox) 
 
-# Links below and .pdfs in the repository 
+### Links below and .pdfs in the repository 
 
 https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion
 
