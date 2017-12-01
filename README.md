@@ -29,3 +29,5 @@ https://www.toptal.com/developers/sorting-algorithms/
 https://www.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort
 
 https://www.toptal.com/developers/sorting-algorithms/
+
+http://bioinformaticsalgorithms.com/
