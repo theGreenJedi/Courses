@@ -18,3 +18,4 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 
 https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation - Big O notation
 
+https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search 
