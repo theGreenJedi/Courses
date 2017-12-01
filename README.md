@@ -19,3 +19,9 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation - Big O notation
 
 https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search 
+
+https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting
+
+http://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+
+https://www.toptal.com/developers/sorting-algorithms/
