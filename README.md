@@ -36,4 +36,4 @@ http://www.cs.usfca.edu/~galles/visualization/DPChange.html - Making Change
 
 http://www.cs.usfca.edu/~galles/visualization/DPChange.html - edit diatance calulator
 
-http://www.cs.usfca.edu/~galles/visualization/DPLCS.html - 
+http://www.cs.usfca.edu/~galles/visualization/DPLCS.html - Longest Common Subsequnce
