@@ -31,3 +31,5 @@ https://www.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/o
 https://www.toptal.com/developers/sorting-algorithms/
 
 http://bioinformaticsalgorithms.com/
+
+http://www.cs.usfca.edu/~galles/visualization/DPChange.html - Making Change
