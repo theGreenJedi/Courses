@@ -39,3 +39,6 @@ http://www.cs.usfca.edu/~galles/visualization/DPChange.html - edit diatance calu
 http://www.cs.usfca.edu/~galles/visualization/DPLCS.html - Longest Common Subsequnce
 
 https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm - Hirschberg's algorithm
+
+
+https://www.udemy.com/git-started-with-github/
