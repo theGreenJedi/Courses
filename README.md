@@ -43,3 +43,7 @@ https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm - Hirschberg's algorithm
 ### Git Started with Github
 
 https://www.udemy.com/git-started-with-github/
+
+### Learn to program with Python
+
+https://www.coursera.org/learn/learn-to-program
