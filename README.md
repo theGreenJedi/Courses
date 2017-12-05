@@ -1,9 +1,13 @@
-# Courses
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+
+## '#f03c15' Courses
 Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
 
-## Additional resources: 
-
-### (Algorithmic Toolbox - https://www.coursera.org/learn/algorithmic-toolbox) 
+### `#1589F0`(Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox) 
 
 ### Links below and .pdfs in the repository 
 
@@ -47,3 +51,5 @@ https://www.udemy.com/git-started-with-github/
 ### Learn to program with Python
 
 https://www.coursera.org/learn/learn-to-program
+
+### ( Python Programming - Rice University - https://www.coursera.org/learn/python-programming/ )
