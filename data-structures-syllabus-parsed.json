@@ -680,6 +680,12 @@
                                     ""
                                 ]
                             ],
+                            "en.srt": [
+                                [
+                                    "https://www.coursera.org/api/subtitleAssetProxy.v1/VfckuYdnEeaDbw65org3Dw?expiry=1512604800000&hmac=i9ERLFr_qIaF4unIePwucHECOVxXTnPl2K7HLcBUbl4&fileExtension=srt",
+                                    ""
+                                ]
+                            ],
                             "ro.srt": [
                                 [
                                     "https://www.coursera.org/api/subtitleAssetProxy.v1/OLbeXLSsRcm23ly0rDXJaQ?expiry=1512604800000&hmac=NkVEOZzU-3DbflKXUvd8ifJeF3x3z6MClEI2ElR2I0c&fileExtension=srt",
@@ -689,12 +695,6 @@
                             "ru.srt": [
                                 [
                                     "https://www.coursera.org/api/subtitleAssetProxy.v1/s9C3dKluSkGQt3SpbtpB1w?expiry=1512604800000&hmac=y_sGOlWgSJibKnab1fQE3dvMub8FEwFpTk66c1ktI_M&fileExtension=srt",
-                                    ""
-                                ]
-                            ],
-                            "en.srt": [
-                                [
-                                    "https://www.coursera.org/api/subtitleAssetProxy.v1/VfckuYdnEeaDbw65org3Dw?expiry=1512604800000&hmac=i9ERLFr_qIaF4unIePwucHECOVxXTnPl2K7HLcBUbl4&fileExtension=srt",
                                     ""
                                 ]
                             ],
@@ -710,6 +710,12 @@
                                     ""
                                 ]
                             ],
+                            "en.txt": [
+                                [
+                                    "https://www.coursera.org/api/subtitleAssetProxy.v1/VfckuYdnEeaDbw65org3Dw?expiry=1512604800000&hmac=6zbfucZGcVSFfpyiEneJblSEvqAsMS5yTcLRS0kNlOU&fileExtension=txt",
+                                    ""
+                                ]
+                            ],
                             "ro.txt": [
                                 [
                                     "https://www.coursera.org/api/subtitleAssetProxy.v1/OLbeXLSsRcm23ly0rDXJaQ?expiry=1512604800000&hmac=3yCtrBheUjuOCLV38qXEez7VC_9_MdX8eqF9E60N4Vo&fileExtension=txt",
@@ -719,12 +725,6 @@
                             "ru.txt": [
                                 [
                                     "https://www.coursera.org/api/subtitleAssetProxy.v1/s9C3dKluSkGQt3SpbtpB1w?expiry=1512604800000&hmac=HWAo3-tmedx7c9OLHlzGzpRyNaCgNh_8evNX65G-kPg&fileExtension=txt",
-                                    ""
-                                ]
-                            ],
-                            "en.txt": [
-                                [
-                                    "https://www.coursera.org/api/subtitleAssetProxy.v1/VfckuYdnEeaDbw65org3Dw?expiry=1512604800000&hmac=6zbfucZGcVSFfpyiEneJblSEvqAsMS5yTcLRS0kNlOU&fileExtension=txt",
                                     ""
                                 ]
                             ],
@@ -946,7 +946,7 @@
                             ],
                             "pdf": [
                                 [
-                                    "https://d3c33hcgiwev3.cloudfront.net/_25e504f1689c0b7bd4306ab9c70ddf12_06_1_priority_queues_2_heaps.pdf?Expires=1512604800&Signature=D06AYWrLLsuZTUk2CcL6pzl0N8-mCTnUXZD1kOVnFXMg5uPsc4IqP2urA7pHAsdQ5X35mp1PHfzWAXnngacqYWjZGCl5IMDRPwJEKVZZI44HTGEpAtpa8hoTAxzvA~egUsxpVxeQl7eImrM8alI6p7FPuCiVJOxd7oelrIVQ9q0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    "https://d18ky98rnyall9.cloudfront.net/_25e504f1689c0b7bd4306ab9c70ddf12_06_1_priority_queues_2_heaps.pdf?Expires=1512604800&Signature=kubXSLm6Q-H4ffgn3OdUIiyeNX1dReZUNZCxyHlfJfVlabTO3qtkz9rAlK1~HOn4-Ox1du6BwbbmKGGwzlg7JBm7FVLWmPqU2xwpKmKxdj~XhSkQKcOU14I0c8BMKSQogxp46o9tkzmB0LCcZsW4BUxuoGAtjeDEuSE8-KXenQM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
                                     "06_1_priority_queues_2_heaps"
                                 ]
                             ]
@@ -1111,7 +1111,7 @@
                         {
                             "mp4": [
                                 [
-                                    "https://d18ky98rnyall9.cloudfront.net/XQPQkfBXEeWM7RKqwyYzOQ.processed/full/540p/index.mp4?Expires=1512604800&Signature=fjogx6L7CnX6co4P6MO0EzhjWDAkGw472-PAc~D3VsWFVhmFr2X5~~SDHy6C0LbVyIILj2qOC7QqlCSlfIDA0dq6dB8~VhLqH2rOJ5wg~hc35TeBOxc91ogYR5QQsmmgMJTwAGm5sIqarQLSfUoEI~~uZu8hLG-D-Ob39PFp0M0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    "https://d3c33hcgiwev3.cloudfront.net/XQPQkfBXEeWM7RKqwyYzOQ.processed/full/540p/index.mp4?Expires=1512604800&Signature=k3i629rY1r48QNleYlsq-IMicf23Qolcpeu6EKFF-GpPXMza~xHO8z49z1totxEfIL0-R6B1RKonI4Zc-6UlkbM~WB~ocgsNB~4NQ~O6eRGZgI~B6Pic8S9maUdHtyvOrlQz~H-1XU-YtZDIjwDOkorg4ibu9idXdw~Y2O6xuwk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
                                     ""
                                 ]
                             ],
@@ -1521,7 +1521,7 @@
                             ],
                             "pdf": [
                                 [
-                                    "https://d3c33hcgiwev3.cloudfront.net/_1bd9300f6c67ad122cb6e7271dc9345b_07_hash_tables_4_proof_universal_family.pdf?Expires=1512604800&Signature=aHQ0ISb5hpUorjW8p3hCZjC5GF6QDrllhdQgEskEUSBtRF8rQsFvmL~tGu6yVICI5ELRzmpPFCLpxBSqIx8WIgjVXrYOqYmIMPu-HcWFBusr6I0e9wdp4I~OOfvYIlzP~X~CykAZeFgMi3ptnmPgPsZIqMq8Zw2if9dAOYkwonI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    "https://d18ky98rnyall9.cloudfront.net/_1bd9300f6c67ad122cb6e7271dc9345b_07_hash_tables_4_proof_universal_family.pdf?Expires=1512604800&Signature=a~OiJFMeVGTtW4wLdBd0EyjnGkt8SZMD8-pq127nxyG2VENdDxKcwJIXdu~w5hh8-Y2ieuUst-sXteJO0Oe15kwGU-lx8oxead-6JXhwnuhVudX14JfWni5zsHoQkWelJ4VR46HvCNumFWVbDsUaJ7GlhlFk-XW4wul-TbRVJ2E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
                                     "07_hash_tables_4_proof_universal_family"
                                 ]
                             ]
@@ -2201,7 +2201,7 @@
                         {
                             "mp4": [
                                 [
-                                    "https://d3c33hcgiwev3.cloudfront.net/oqq5q2o0EeakkArq5_q3Ow.processed/full/540p/index.mp4?Expires=1512604800&Signature=HGqoycmcsRFCrFLij-8~UOgjwKhnr2crD2Ak-oYdbNn0yfxZZUFkdrF5tlbupOk3yytH9VRncOPvnmd~GQa2y6gENZVBq~bZPGS5nZkCWzogV-w6fjWyqZDLrIncgXIgS5CW9biSNw88J2sPcIvoRf2mxGyWaJ19X75lIGRbcY0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
+                                    "https://d18ky98rnyall9.cloudfront.net/oqq5q2o0EeakkArq5_q3Ow.processed/full/540p/index.mp4?Expires=1512604800&Signature=MFjyLIUXUP0pQy08Z2dD0uniLEFK8DQYqhob6Ol3H6RdEzlh3RP5FG6HH~YSz3OkTThteDM8UPFybsn49rBLGPipZS5CWyrxzXvQJKSN0DODr961nBnskb5aaBNTcu6LkjIAQ-THH37vK-~h~8WnteRx8ErDe1IYYBTJcIlMnDE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A",
                                     ""
                                 ]
                             ],
