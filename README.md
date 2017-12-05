@@ -4,10 +4,10 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 
-## '#f03c15' Courses
+#f03c15 ## Courses
 Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
 
-### `#1589F0`(Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox) 
+###1589F0 (Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox) 
 
 ### Links below and .pdfs in the repository 
 
