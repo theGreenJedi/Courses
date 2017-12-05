@@ -2,7 +2,7 @@
 ## Courses
 Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
 
-### (Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox) 
+### ( Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox )
 
 #### Links below and .pdfs in the repository 
 
@@ -41,10 +41,8 @@ https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm - Hirschberg's algorithm
 
 ### ( Git Started with Github - Udemy - https://www.udemy.com/git-started-with-github/ )
 
-### Learn to program with Python ( https://www.coursera.org/learn/learn-to-program )
+### ( Learn to program with Python - Univ of Toronto - https://www.coursera.org/learn/learn-to-program )
 
-### ( Python Programming - Rice University - https://www.coursera.org/learn/python-programming/ )
 
-http://py3.codeskulptor.org/
 
 
