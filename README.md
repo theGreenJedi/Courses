@@ -39,13 +39,9 @@ http://www.cs.usfca.edu/~galles/visualization/DPLCS.html - Longest Common Subseq
 
 https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm - Hirschberg's algorithm
 
-### Git Started with Github
+### ( Git Started with Github - Udemy - https://www.udemy.com/git-started-with-github/ )
 
-https://www.udemy.com/git-started-with-github/
-
-### Learn to program with Python
-
-https://www.coursera.org/learn/learn-to-program
+### Learn to program with Python ( https://www.coursera.org/learn/learn-to-program )
 
 ### ( Python Programming - Rice University - https://www.coursera.org/learn/python-programming/ )
 
