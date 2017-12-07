@@ -1,1 +1,0 @@
-model.check_model()

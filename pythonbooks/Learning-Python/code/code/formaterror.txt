@@ -1,2 +1,0 @@
-Error at: spam.txt 40
-Error at: spam.txt 40

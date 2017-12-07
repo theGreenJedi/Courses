@@ -1,3 +1,0 @@
-Output:
-('Minimum Mean Square Error', 0.5873018933136459)
-('Index of Minimum Mean Square Error', 311)

@@ -1,1 +1,0 @@
-distribution.check_independence('coin1', 'coin2')

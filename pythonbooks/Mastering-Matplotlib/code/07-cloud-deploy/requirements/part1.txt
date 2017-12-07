@@ -1,8 +1,0 @@
-setuptools
-flake8
-typecheck-decorator == 0.3b
-Image
-networkx
-FileChunkIO
-boto
-awscli

@@ -1,5 +1,0 @@
-psutil
-setuptools
-flake8
-scikit-learn
-astropy

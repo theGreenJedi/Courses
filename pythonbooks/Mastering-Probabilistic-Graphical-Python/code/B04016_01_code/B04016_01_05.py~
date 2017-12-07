@@ -1,3 +1,0 @@
-In [4]: assertion2 = IndependenceAssertion('X', 'Y', 'Z')
-In [5]: assertion2
-Out [5]: (X _|_ Y | Z)
