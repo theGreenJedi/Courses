@@ -1,4 +1,4 @@
-1Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox )
+Algorithmic Toolbox - University of California, San Diego https://www.coursera.org/learn/algorithmic-toolbox )
 Links below and .pdfs in the repository
 
 https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion
