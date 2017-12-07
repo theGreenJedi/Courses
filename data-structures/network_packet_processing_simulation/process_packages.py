@@ -16,8 +16,22 @@ class Buffer:
         self.finish_time_ = []
 
     def Process(self, request):
-        # write your code here
-        return Response(False, -1)
+        if not self.finish_time_:
+            self.finish_time_.append(request.arrival_time+request.process_time)
+            return Response(False, request.arrival_time)
+
+        while self.finish_time_ and self.finish_time_[0] <= request.arrival_time:
+            self.finish_time_.pop(0)
+
+        if len(self.finish_time_) == self.size:
+            return Response(True, -1)
+
+        if not self.finish_time_:
+            self.finish_time_.append(request.arrival_time+request.process_time)
+            return Response(False, request.arrival_time)
+
+        self.finish_time_.append(self.finish_time_[-1]+request.process_time)
+        return Response(False, self.finish_time_[-2])
 
 def ReadRequests(count):
     requests = []
@@ -39,8 +53,6 @@ def PrintResponses(responses):
 if __name__ == "__main__":
     size, count = map(int, input().strip().split())
     requests = ReadRequests(count)
-
     buffer = Buffer(size)
     responses = ProcessRequests(requests, buffer)
-
-    PrintResponses(responses)
+PrintResponses(responses)
