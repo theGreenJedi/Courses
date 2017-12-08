@@ -6,7 +6,7 @@ Variety of courses / classes with homework for https://github.com/theGreenJedi/P
 
 ### ( Learn to program with Python - Univ of Toronto - https://www.coursera.org/learn/learn-to-program )
 
-The following resources via cloud.google.com(https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) can help learn about machine learning:
+The following resources via [cloud.google.com](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) can help learn about machine learning:
 
 
 [Intro to Machine Learning -Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
