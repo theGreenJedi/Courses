@@ -15,5 +15,5 @@ The following resources via cloud.google.com(https://cloud.google.com/ml-engine/
 
 [Machine Learning - Stanford Course CS229 Videos](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 
-[Colah's Blog - Christopher Olah writes about machine learning][https://colah.github.io/]
+[Colah's Blog - Christopher Olah writes about machine learning](https://colah.github.io/)
 
