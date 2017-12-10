@@ -26,13 +26,40 @@ What you'll learn
     Testing and debugging
     An informal introduction to algorithmic complexity
     Data structures
+Documentation
 
-### Documentation
+*   <span style="font-size: 1em; line-height: 1.6em;">[Official Python 3 Documentation](https://docs.python.org/3/library/index.html) - "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.</span>
 
-    [Official Python 3 Documentation](https://docs.python.org/3/library/index.html - "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.
-    
-    [Official Python 3 Documentation](https://docs.python.org/3/library/index.html)
+## Textbooks/Tutorials
 
-### Textbooks/Tutorials
+*   <span style="font-size: 1em; line-height: 1.6em;">[Dive Into Python](http://www.diveintopython3.net/) - another survey of Python syntax, datatypes, etc.</span>
+*   [Think Python](http://greenteapress.com/wp/think-python-2e/) by Allen Downey - a good general overview of the Python language. Includes exercises.
+*   [The Official Python Tutorial](https://docs.python.org/3/tutorial/) - self-explanatory
+*   [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - (note: for Python 2) another free online text
+*   [Reserved Keywords in Python](https://docs.python.org/3.0/reference/lexical_analysis.html#id8) - don't use these as variable names
+*   [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code - learn what is good and bad style in Python
+*   [CheckIO](https://checkio.org/) - learn Python by exploring a game world
+*   [Invent with Python](https://inventwithpython.com/) - develop your Python skills by making games or hacking ciphers
+*   [Codecademy](https://www.codecademy.com/learn/python) - (note: for Python 2) learn Python by building web apps and manipulating data; interactive tutorial sequence
+*   [Python Tutor](http://www.pythontutor.com/) - interactive tutorial sequence of exercises
 
- lt;li><span style="font-size: 1em; line-height: 1.6em;"><a href="http://www.diveintopython3.net/" target="_blank">Dive Into Python</a>&nbsp;- another survey of Python syntax, datatypes, etc.</span></li> <li><a href="http://greenteapress.com/wp/think-python-2e/" target="_blank">Think Python</a>&nbsp;by Allen Downey - a good general overview of the Python language. Includes exercises.</li> <li><a href="https://docs.python.org/3/tutorial/" target="_blank">The Official Python Tutorial</a>&nbsp;- self-explanatory</li> <li><a href="http://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a>&nbsp;- (note: for Python 2) another free online text</li> <li><a href="https://docs.python.org/3.0/reference/lexical_analysis.html#id8" target="_blank">Reserved Keywords in Python</a>&nbsp;- don't use these as variable names</li> <li><a href="https://www.python.org/dev/peps/pep-0008/" target="_blank">PEP 8</a>&nbsp;- Style Guide for Python Code - learn what is good and bad style in Python</li> <li><a href="https://checkio.org/" target="_blank">CheckIO</a>&nbsp;- learn Python by exploring a game world</li> <li><a href="https://inventwithpython.com/" target="_blank">Invent with Python</a>&nbsp;- develop your Python skills by making games or hacking ciphers</li> <li><a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy</a>&nbsp;- (note: for Python 2) learn Python by building web apps and manipulating data; interactive tutorial sequence</li> <li><a href="http://www.pythontutor.com/" target="_blank">Python Tutor</a>&nbsp;- interactive tutorial sequence of exercises</li>
+## Debugging
+
+*   <span style="font-size: 1em; line-height: 1.6em;">[Python Tutor](http://www.pythontutor.com/) - an excellent way to actually visualize how the interpreter actually reads and executes your code</span>
+*   [DiffChecker](https://www.diffchecker.com/) - compares two sets of text and shows you which lines are different
+*   [Debugging in Python](https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/) - steps you can take to try to debug your program
+
+## Software
+
+*   <span style="font-size: 1em; line-height: 1.6em;">[Python Tools for Visual Studio](https://microsoft.github.io/PTVS/) - Visual Studio plug-in enabling Python programming</span>
+
+## Other Q&A
+
+*   <span style="font-size: 1em; line-height: 1.6em;">[Stack Overflow](http://stackoverflow.com/questions/tagged/python) - a large Q&A forum for programming concepts (not just Python). Try searching here before you post on the edX forum, and you may find that someone has already answered your question.</span>
+
+## More practice problems
+
+*   <span style="font-size: 1em; line-height: 1.6em;">[Python Challenge](http://www.pythonchallenge.com/) - a series of puzzles you can try to test your Python abilities</span>
+*   [Project Euler](https://projecteuler.net/) - additional programming challenges you can try once your Python knowledge becomes stronger; problems are sorted by increasing difficulty
+*   [Coding Bat](http://codingbat.com/python) - problems you can solve within an online interpreter
+*   [Codewars](https://www.codewars.com/?language=python) - improve your skills by training on real code challenges
