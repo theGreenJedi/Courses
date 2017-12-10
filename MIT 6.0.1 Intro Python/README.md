@@ -30,6 +30,8 @@ What you'll learn
 ### Documentation
 
     [Official Python 3 Documentation](https://docs.python.org/3/library/index.html - "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.
+    
+    [Official Python 3 Documentation](https://docs.python.org/3/library/index.html)
 
 ### Textbooks/Tutorials
 
