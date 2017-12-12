@@ -1,3 +1,4 @@
+![Hinton](https://cdn-images-1.medium.com/max/2000/1*gkRl9_6LK9ZqNF0ttv2kFA.jpeg)
 
 ## Courses
 Variety of courses / classes with homework for https://github.com/theGreenJedi/Path
