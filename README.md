@@ -7,6 +7,14 @@ Variety of courses / classes with homework for https://github.com/theGreenJedi/P
 
 ### ( Learn to program with Python - Univ of Toronto - https://www.coursera.org/learn/learn-to-program )
 
+### [Machine Language](https://github.com/JediKoder/coursera-ML)
+
+### [Nand to Tetris](https://github.com/JediKoder/nand2tetris)
+
+### [Open Source Society](https://ossu.firebaseapp.com/#/profile/github:16416542)
+
+### [Codility](https://github.com/JediKoder/codility-lessons/tree/master/codility-master)
+
 The following resources via [cloud.google.com](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) can help learn about machine learning:
 
 [Intro to Machine Learning -Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
