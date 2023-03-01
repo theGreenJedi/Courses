@@ -15,6 +15,8 @@ Variety of courses / classes with homework for https://github.com/theGreenJedi/P
 
 ### [Codility](https://github.com/JediKoder/codility-lessons/tree/master/codility-master)
 
+### [Pluralsight] (https://app.pluralsight.com/channels/details/a3851f7c-3db9-4c8e-b40d-80ec0f1c97cb)
+
 Following resources via [cloud.google.com](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) to learn about machine learning:
 
 [Intro to Machine Learning -Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
@@ -32,4 +34,6 @@ Following resources learn about TensorFlow:
 [2017 Tensorflow videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
 [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+
+
 
