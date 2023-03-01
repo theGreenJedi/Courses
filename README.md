@@ -15,7 +15,7 @@ Variety of courses / classes with homework for https://github.com/theGreenJedi/P
 
 ### [Codility](https://github.com/JediKoder/codility-lessons/tree/master/codility-master)
 
-The following resources via [cloud.google.com](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) can help learn about machine learning:
+Following resources via [cloud.google.com](https://cloud.google.com/ml-engine/docs/getting-started-training-prediction) to learn about machine learning:
 
 [Intro to Machine Learning -Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
@@ -25,9 +25,9 @@ The following resources via [cloud.google.com](https://cloud.google.com/ml-engin
 
 [Colah's Blog - Christopher Olah writes about machine learning](https://colah.github.io/)
 
-The following resources can help you learn about TensorFlow:
+Following resources learn about TensorFlow:
 
-[Getting started with Tensorflow](https://www.tensorflow.org/get_started/get_started)
+[Tensorflow](https://www.tensorflow.org/get_started/get_started)
 
 [2017 Tensorflow videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
